@@ -1,3 +1,7 @@
 pandas
 numpy
 plotly
+pyarrow
+yfinance
+matplotlib
+seaborn
